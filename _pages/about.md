@@ -12,8 +12,6 @@ redirect_from:
 
 ---------
 
-My name is Meredith LeFevre and I am a fourth-year undergraduate student at the [University of Iowa](https://www.uiowa.edu/) in the [Dept. of Physics and Astronomy](https://physics.uiowa.edu/).
-
 # About Me
 
 I'm Meredith LeFevre, a fourth-year undergraduate student at the [University of Iowa](https://www.uiowa.edu/) pursuing a B.S. in Physics and Astronomy with minors in Mathematics, Geoscience, and Dance.
