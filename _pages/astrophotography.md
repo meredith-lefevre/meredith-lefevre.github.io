@@ -1,8 +1,5 @@
 ---
-permalink: /
+permalink: /astrophotography/
+title: "Astrophotography"
 author_profile: true
-redirect_from: 
-  - /astrophotography.html
 ---
-
-{% include base_path %}
