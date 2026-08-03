@@ -13,7 +13,7 @@ title                    : "Meredith LeFevre"
 title_separator          : "-"
 name                     : &name "Meredith LeFevre"
 description              : &description "Research Assistant Professor and Zooniverse Director"
-url                      : https://[meredith-lefevre].github.io
+url                      : https://meredith-lefevre.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "meredith-lefevre/"
 
