@@ -14,10 +14,14 @@ redirect_from:
 
 My name is Meredith LeFevre and I am a fourth-year undergraduate student at the [University of Iowa](https://www.uiowa.edu/) in the [Dept. of Physics and Astronomy](https://physics.uiowa.edu/).
 
-My current research focuses on blah blah blah
+# About Me
+
+I'm Meredith LeFevre, a fourth-year undergraduate student at the [University of Iowa](https://www.uiowa.edu/) pursuing a B.S. in Physics and Astronomy with minors in Mathematics, Geoscience, and Dance.
+
+My research focuses on observational astrophysics, where I study stellar populations in the Andromeda Galaxy and compact X-ray sources in the Galactic Center. I am particularly interested in using large astronomical datasets to better understand the evolution of massive stars, binary systems, and compact objects. Alongside astrophysics, I enjoy developing computational tools and using Python to analyze and visualize scientific data.
+
+Outside of research, I am passionate about science communication and outreach. I serve as an Undergraduate NASA STEM Ambassador for the Iowa Space Grant Consortium, Outreach Coordinator for the University of Iowa Society of Physics Students, and an undergraduate teaching assistant for the [Dept. of Physics and Astronomy](https://physics.uiowa.edu/), where I help teach introductory astronomy and lead public observing events at the Van Allen Observatory. I love sharing astronomy with others and finding creative ways to make science more accessible.
+
+When I'm not doing physics, you can usually find me dancing, taking care of my many houseplants, working on outreach events, or spending time under a telescope.
 
 ![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
-
-Example -- adding an image hosted remotely:
-
-![PHAT Andromeda Mosaic](https://panoptes-uploads.zooniverse.org/production/project_attached_image/049c71e3-6a77-4476-b3aa-8daf3f6b7578.jpeg)
