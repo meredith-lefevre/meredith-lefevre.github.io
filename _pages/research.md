@@ -7,13 +7,14 @@ author_profile: true
 {% include toc %}
 {% include base_path %}
 
-## Introduction
+## CIERA REU
+# Introduction
 
 My REU summer research project .....
 
-## Results
+# Results
 
 blah blah blah
 
-## Presentations & Publication
+# Presentations & Publication
 
