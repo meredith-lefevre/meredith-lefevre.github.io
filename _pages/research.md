@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-{% include toc levels="2" %}
+{% include toc toc_levels="2" %}
 {% include base_path %}
 
 ## CIERA REU
