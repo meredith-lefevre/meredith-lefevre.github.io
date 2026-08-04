@@ -8,7 +8,7 @@ author_profile: true
 
 <div style="height:20px;"></div>
 
-A collection of astronomical images captured during observing and outreach activities.
+Astrophotography is one of my favorite ways to share my passion for astronomy. This page features a collection of images captured during personal observing sessions, public outreach events, and observations at the University of Iowa's Van Allen Observatory.
 
 ## Images
 
