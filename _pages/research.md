@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div style="height:30px;"></div>
+<br><br>
 
 ## Red Supergiant Populations and Binary Evolution in M31
 
