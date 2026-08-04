@@ -45,4 +45,9 @@ Outside of research, I am passionate about science communication and outreach. I
 
 When I'm not doing physics, you can usually find me dancing, taking care of my many houseplants, working on outreach events, or spending time under a telescope.
 
+<div class="bottom-image">
+<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg"
+alt="Splinter Galaxy">
+</div>
+
 <div style="height:0px; margin:0; padding:0;"></div>
