@@ -28,11 +28,12 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<style="width:100%; aspect-ratio:1/1; overflow:hidden;">
+<div style="width:100%; aspect-ratio:1/1; overflow:hidden;">
 <img src="{{ base_path }}/images/astrophotography/ringnebula.jpg"
 alt="Ring Nebula"
-style="width:100%; height:100%; object-fit:cover; transform:scale(1.5);">
-<figcaption style="text-align:center; width:90%;">Ring Nebula (M57)</figcaption>
+style="width:100%; height:100%; object-fit:cover; transform:scale(1.5); transform-origin:center;">
+</div>
+<figcaption style="text-align:center;">Ring Nebula (M57)</figcaption>
 </figure>
 
 <figure>
