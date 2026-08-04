@@ -9,15 +9,16 @@ redirect_from:
 {% include base_path %}
 
 <style>
-.bottom-image {
-  height:250px;
-  overflow:hidden;
-  margin:0 !important;
-  padding:0 !important;
+.page__content {
+  padding-bottom: 0 !important;
 }
 
-.bottom-image img {
-  display:block;
+.page__content p:last-child {
+  margin-bottom: 0 !important;
+}
+
+.page__content > *:last-child {
+  margin-bottom: 0 !important;
 }
 </style>
 
