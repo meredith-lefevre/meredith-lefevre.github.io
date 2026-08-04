@@ -7,7 +7,7 @@ author_profile: true
 {% include toc toc_levels="2" %}
 {% include base_path %}
 
-<br>
+<div style="height:30px;"></div>
 
 ## Red Supergiant Populations and Binary Evolution in M31
 
@@ -15,7 +15,6 @@ As part of the [CIERA REU Program](https://sites.northwestern.edu/cierareu/2026-
 
 This project is ongoing, with current efforts focused on analyzing the cluster red supergiant population, examining dependencies on cluster age and mass, and comparing observed RSG populations with single-star and binary evolution models to investigate how stellar interactions influence massive star evolution.
 
----
 
 ## Classifying Galactic Center Sources Through X-ray Time-Domain Analysis
 
