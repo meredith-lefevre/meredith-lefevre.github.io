@@ -6,8 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Astrophotography
-
 A collection of astronomical images captured during observing and outreach activities.
 
 ## Images
