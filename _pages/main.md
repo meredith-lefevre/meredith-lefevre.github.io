@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="width:100%; height:250px; overflow:hidden;"> <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg" alt="Crescent Nebula" style="width:100%; height:100%; object-fit:cover; object-position:33% center;"> </div>
+<div style="width:100%; height:250px; overflow:hidden;"> <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg" alt="Crescent Nebula" style="width:100%; height:100%; object-fit:cover; object-position:35% center;"> </div>
 
 ---------
 
