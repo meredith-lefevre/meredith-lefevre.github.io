@@ -18,7 +18,7 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover; object-position:center 33%;">
+<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover; object-position:center 34%;">
 <figcaption style="text-align:center; width:90%;">Full Moon</figcaption>
 </figure>
 
@@ -28,7 +28,11 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/ringnebula.jpg" alt="Ring Nebula" style="width:140%; aspect-ratio:1/1; object-fit:cover; object-position:center; transform:translate(-14%, -14%);"><figcaption style="text-align:center; width:90%;">Ring Nebula (M57)</figcaption>
+<style="width:100%; aspect-ratio:1/1; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/ringnebula.jpg"
+alt="Ring Nebula"
+style="width:100%; height:100%; object-fit:cover; transform:scale(1.5);">
+<figcaption style="text-align:center; width:90%;">Ring Nebula (M57)</figcaption>
 </figure>
 
 <figure>
