@@ -48,7 +48,7 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/dumbell.jpeg" alt="Dumbbell Nebula" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/dumbellnebula.jpeg" alt="Dumbbell Nebula" style="width:100%;">
 <figcaption>Dumbbell Nebula (M27)</figcaption>
 </figure>
 
