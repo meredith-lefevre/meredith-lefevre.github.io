@@ -21,6 +21,8 @@ redirect_from:
 }
 </style>
 
+<div style="width:100%; height:250px; overflow:hidden;"> <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg" alt="Crescent Nebula" style="width:100%; height:100%; object-fit:cover; object-position:30% center;"> </div>
+
 ---------
 
 # About Me
@@ -44,8 +46,3 @@ When I'm not doing physics, you can usually find me dancing, taking care of my m
 
 ---
 
-<div class="bottom-image">
-<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg"
-alt="Splinter Galaxy"
-style="width:100%; height:100%; object-fit:cover; object-position:30% center;">
-</div>
