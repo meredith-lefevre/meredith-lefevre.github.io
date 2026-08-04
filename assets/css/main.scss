@@ -56,3 +56,23 @@
 .layout--single .sidebar {
   margin-bottom: 0 !important;
 }
+
+#main {
+  min-height: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.page {
+  min-height: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.page__inner-wrap {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.page__content {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
