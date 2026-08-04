@@ -6,6 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
+<div style="height:20px;"></div>
+
 A collection of astronomical images captured during observing and outreach activities.
 
 ## Images
