@@ -18,48 +18,48 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover; object-position:center 10%;">
-<figcaption style="text-align:center;">Full Moon</figcaption>
+<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover; object-position:center 30%;">
+<figcaption style="text-align:center; width:90%;">Full Moon</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg" alt="Crescent Nebula" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Crescent Nebula (NGC 6888)</figcaption>
+<figcaption style="text-align:center; width:90%;">Crescent Nebula (NGC 6888)</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/ringnebula.jpg" alt="Ring Nebula" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Ring Nebula (M57)</figcaption>
+<figcaption style="text-align:center; width:90%;">Ring Nebula (M57)</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/irisnebula.jpg" alt="Iris Nebula" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Iris Nebula (NGC 7023)</figcaption>
+<figcaption style="text-align:center; width:90%;">Iris Nebula (NGC 7023)</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/waningcrescentmoon.jpeg" alt="Waning Crescent Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Waning Crescent Moon</figcaption>
+<figcaption style="text-align:center; width:90%;">Waning Crescent Moon</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg" alt="Splinter Galaxy" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Splinter Galaxy (NGC 5907)</figcaption>
+<figcaption style="text-align:center; width:90%;">Splinter Galaxy (NGC 5907)</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/dumbellnebula.jpeg" alt="Dumbbell Nebula" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Dumbbell Nebula (M27)</figcaption>
+<figcaption style="text-align:center; width:90%;">Dumbbell Nebula (M27)</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/northernlights.jpg" alt="Northern Lights from Iowa City" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Northern Lights from Iowa City</figcaption>
+<figcaption style="text-align:center; width:90%;">Northern Lights from Iowa City</figcaption>
 </figure>
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/cocoongalaxy.jpg" alt="Cocoon Galaxy" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center;">Cocoon Galaxy (IC 5146)</figcaption>
+<figcaption style="text-align:center; width:90%;">Cocoon Galaxy (IC 5146)</figcaption>
 </figure>
 
 </div>
