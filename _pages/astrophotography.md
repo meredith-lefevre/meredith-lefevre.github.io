@@ -63,3 +63,11 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 </div>
+
+
+
+![Whirlpool](/images/astrophotography/whirlpoolgalaxy.jpeg)
+
+![Moon](/images/astrophotography/fullmoon.jpeg)
+
+![Ring](/images/astrophotography/ringnebula.jpeg)
