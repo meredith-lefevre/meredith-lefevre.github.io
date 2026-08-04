@@ -13,7 +13,11 @@ A collection of astronomical images captured during observing and outreach activ
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpg" alt="Whirlpool Galaxy" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
+<div style="width:90%; aspect-ratio:1/1; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpg"
+alt="Whirlpool Galaxy"
+style="width:90%; height:90%; object-fit:cover; transform:scale(1.5); transform-origin:center;">
+</div>
 <figcaption style="text-align:center; width:90%;">Whirlpool Galaxy (M51)</figcaption>
 </figure>
 
@@ -31,7 +35,7 @@ A collection of astronomical images captured during observing and outreach activ
 <div style="width:90%; aspect-ratio:1/1; overflow:hidden;">
 <img src="{{ base_path }}/images/astrophotography/ringnebula.jpg"
 alt="Ring Nebula"
-style="width:90%; height:90%; object-fit:cover; transform:scale(1.5); transform-origin:center;">
+style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-origin:center;">
 </div>
 <figcaption style="text-align:center; width:90%;">Ring Nebula (M57)</figcaption>
 </figure>
@@ -62,8 +66,13 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(1.5); transform-
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/cocoongalaxy.jpg" alt="Cocoon Galaxy" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center; width:90%;">Cocoon Galaxy (IC 5146)</figcaption>
+<div style="width:90%; aspect-ratio:1/1; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/cocoongalaxy.jpg"
+alt="Cocoon Galaxy"
+style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-origin:center;">
+</div>
+<figcaption style="text-align:center; width:90%;">Cocoon Galaxy (IC 5146</figcaption>
 </figure>
+
 
 </div>
