@@ -8,7 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-![HST image from PHAT of cluster, association, and galaxy](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/5/1928/files/2017/09/cropped-b21crop-12qj9v2.png)
+<div style="width:100%; height:300px; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg"
+alt="Crescent Nebula"
+style="width:100%; height:100%; object-fit:cover; object-position:center;">
+</div>
 
 ---------
 
