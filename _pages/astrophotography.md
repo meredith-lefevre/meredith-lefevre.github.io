@@ -13,27 +13,27 @@ A collection of astronomical images captured during observing and outreach activ
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpeg" alt="Whirlpool Galaxy" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpg" alt="Whirlpool Galaxy" style="width:100%;">
 <figcaption>Whirlpool Galaxy (M51)</figcaption>
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/fullmoon.jpeg" alt="Full Moon" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:100%;">
 <figcaption>Full Moon</figcaption>
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/crescentnebula.jpeg" alt="Crescent Nebula" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg" alt="Crescent Nebula" style="width:100%;">
 <figcaption>Crescent Nebula (NGC 6888)</figcaption>
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/ringnebula.jpeg" alt="Ring Nebula" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/ringnebula.jpg" alt="Ring Nebula" style="width:100%;">
 <figcaption>Ring Nebula (M57)</figcaption>
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/irisnebula.jpeg" alt="Iris Nebula" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/irisnebula.jpg" alt="Iris Nebula" style="width:100%;">
 <figcaption>Iris Nebula (NGC 7023)</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpeg" alt="Splinter Galaxy" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg" alt="Splinter Galaxy" style="width:100%;">
 <figcaption>Splinter Galaxy (NGC 5907)</figcaption>
 </figure>
 
@@ -53,12 +53,12 @@ A collection of astronomical images captured during observing and outreach activ
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/northernlights.jpeg" alt="Northern Lights from Iowa City" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/northernlights.jpg" alt="Northern Lights from Iowa City" style="width:100%;">
 <figcaption>Northern Lights from Iowa City</figcaption>
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/cocoongalaxy.jpeg" alt="Cocoon Galaxy" style="width:100%;">
+<img src="{{ base_path }}/images/astrophotography/cocoongalaxy.jpg" alt="Cocoon Galaxy" style="width:100%;">
 <figcaption>Cocoon Galaxy (IC 5146)</figcaption>
 </figure>
 
@@ -66,8 +66,8 @@ A collection of astronomical images captured during observing and outreach activ
 
 
 
-![Whirlpool]({{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpeg)
+![Whirlpool]({{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpg)
 
-![Moon]({{ base_path }}/images/astrophotography/fullmoon.jpeg)
+![Moon]({{ base_path }}/images/astrophotography/fullmoon.jpg)
 
-![Ring]({{ base_path }}/images/astrophotography/ringnebula.jpeg)
+![Ring]({{ base_path }}/images/astrophotography/ringnebula.jpg)
