@@ -7,12 +7,9 @@ author_profile: true
 {% include toc toc_levels="2" %}
 {% include base_path %}
 
+<br>
+
 ## CIERA REU
-### Introduction
-
-My REU summer research project .....
-
-### Results
 
 blah blah blah
 
