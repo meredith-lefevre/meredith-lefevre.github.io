@@ -8,6 +8,16 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.page__content {
+  padding-bottom: 0 !important;
+}
+
+.page__content > :last-child {
+  margin-bottom: 0 !important;
+}
+</style>
+
 <div style="width:100%; height:250px; overflow:hidden;">
 <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg"
 alt="Crescent Nebula"
@@ -29,7 +39,7 @@ My research focuses on observational astrophysics, where I study stellar populat
 <img src="{{ base_path }}/images/iceland.jpg" alt="Team HAMMER in Iceland" style="width:100%; aspect-ratio:3/2; object-fit:cover;">
 </div>
 
-<div style="height:10px;"></div>
+<div style="height:20px;"></div>
 
 Outside of research, I am passionate about science communication and outreach. I serve as an [Undergraduate NASA STEM Ambassador](https://www.iaspacegrant.org/ug-stem-ambassador-program/)for the [Iowa Space Grant Consortium](https://www.iaspacegrant.org), Outreach Coordinator for the [University of Iowa Society of Physics Students](https://uisps.org.uiowa.edu), and an undergraduate teaching assistant for the [Dept. of Physics and Astronomy](https://physics.uiowa.edu/), where I help teach introductory astronomy and lead public observing events at the Van Allen Observatory. I love sharing astronomy with others and finding creative ways to make science more accessible.
 
