@@ -8,20 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-.page__content {
-  padding-bottom: 0 !important;
-}
-
-.page__content p:last-child {
-  margin-bottom: 0 !important;
-}
-
-.page__content > *:last-child {
-  margin-bottom: 0 !important;
-}
-</style>
-
 <div style="width:100%; height:250px; overflow:hidden;"> <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg" alt="Crescent Nebula" style="width:100%; height:100%; object-fit:cover; object-position:30% center;"> </div>
 
 ---------
@@ -45,9 +31,6 @@ Outside of research, I am passionate about science communication and outreach. I
 
 When I'm not doing physics, you can usually find me dancing, taking care of my many houseplants, working on outreach events, or spending time under a telescope.
 
-<div class="bottom-image">
-<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg"
-alt="Splinter Galaxy">
+<div class="bottom-image" style="width:100%; height:250px; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg" alt="Splinter Galaxy style="width:100%; height:100%; object-fit:cover;">
 </div>
-
-<div style="height:0px; margin:0; padding:0;"></div>
