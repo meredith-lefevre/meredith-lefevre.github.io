@@ -14,11 +14,11 @@ A collection of astronomical images captured during observing and outreach activ
 
 <figure>
 <img src="{{ base_path }}/images/astrophotography/whirlpoolgalaxy.jpg" alt="Whirlpool Galaxy" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
-<figcaption style="text-align:center; width:100%;">Whirlpool Galaxy (M51)</figcaption>
+<figcaption style="text-align:center; width:90%;">Whirlpool Galaxy (M51)</figcaption>
 </figure>
 
 <figure>
-<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover; object-position:center 20%;">
+<img src="{{ base_path }}/images/astrophotography/fullmoon.jpg" alt="Full Moon" style="width:90%; aspect-ratio:1/1; object-fit:cover; object-position:center 10%;">
 <figcaption style="text-align:center;">Full Moon</figcaption>
 </figure>
 
