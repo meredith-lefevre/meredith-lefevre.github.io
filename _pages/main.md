@@ -29,7 +29,7 @@ My research focuses on observational astrophysics, where I study stellar populat
 <img src="{{ base_path }}/images/iceland.jpg" alt="Team HAMMER in Iceland" style="width:100%; aspect-ratio:3/2; object-fit:cover;">
 </div>
 
-<br>
+<div style="height:10px;"></div>
 
 Outside of research, I am passionate about science communication and outreach. I serve as an [Undergraduate NASA STEM Ambassador](https://www.iaspacegrant.org/ug-stem-ambassador-program/)for the [Iowa Space Grant Consortium](https://www.iaspacegrant.org), Outreach Coordinator for the [University of Iowa Society of Physics Students](https://uisps.org.uiowa.edu), and an undergraduate teaching assistant for the [Dept. of Physics and Astronomy](https://physics.uiowa.edu/), where I help teach introductory astronomy and lead public observing events at the Van Allen Observatory. I love sharing astronomy with others and finding creative ways to make science more accessible.
 
@@ -37,8 +37,8 @@ When I'm not doing physics, you can usually find me dancing, taking care of my m
 
 ---
 
-<div style="width:100%; height:250px; overflow:hidden; margin-bottom:0;">
-  <img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg"
-       alt="Splinter Galaxy"
-       style="width:100%; height:100%; object-fit:cover; object-position:30% center;">
+<div style="width:100%; height:250px; overflow:hidden; margin-bottom:-20px;">
+<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg"
+alt="Splinter Galaxy"
+style="width:100%; height:100%; object-fit:cover; object-position:30% center;">
 </div>
