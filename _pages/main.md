@@ -8,10 +8,10 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="width:100%; height:300px; overflow:hidden;">
+<div style="width:100%; height:250px; overflow:hidden;">
 <img src="{{ base_path }}/images/astrophotography/crescentnebula.jpg"
 alt="Crescent Nebula"
-style="width:100%; height:100%; object-fit:cover; object-position:center;">
+style="width:100%; height:100%; object-fit:cover; object-position:30% center;">
 </div>
 
 ---------
@@ -26,4 +26,10 @@ Outside of research, I am passionate about science communication and outreach. I
 
 When I'm not doing physics, you can usually find me dancing, taking care of my many houseplants, working on outreach events, or spending time under a telescope.
 
-![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
+---
+
+<div style="width:100%; height:250px; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/splintergalaxy.jpg"
+alt="Splinter Galaxy"
+style="width:100%; height:100%; object-fit:cover; object-position:30% center;">
+</div>
