@@ -17,6 +17,25 @@ As part of the [CIERA REU Program](https://sites.northwestern.edu/cierareu/2026-
 Massive stars play an important role in galaxy evolution through radiation, stellar winds, and supernovae. Evolved helium-burning (HeB) stars, particularly red supergiants, provide important constraints on massive-star evolution, mass loss, and Type II supernova progenitors. Binary interactions can further alter the evolution and observable properties of these stars.
 Using PHAT photometry and the Andromeda Project cluster catalog, I identify HeB stars and RSGs associated with M31 star clusters. I focus on the RSG population, comparing cluster and field RSGs, examining their relationship with cluster properties, and searching for evidence of binary companions through UV excess emission.
 
+<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
+<figure style="margin:0;">
+    <img src="{{ base_path }}/images/CIERA_PHATfilters.png" 
+         alt="Relative transmission of the PHAT filters as a function of wavelength (top), with representative stellar spectra shown below, including Vega, G7III, M5III, and a carbon star (bottom)." 
+         style="width:100%; aspect-ratio:3/2; object-fit:cover;">
+    <figcaption>
+        Relative transmission of the PHAT filters as a function of wavelength, with representative stellar spectra shown below.
+    </figcaption>
+</figure>
+<figure style="margin:0;">
+    <img src="{{ base_path }}/images/CIERA_PHATMosaic.png" 
+         alt="Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31." 
+         style="width:100%; aspect-ratio:3/2; object-fit:cover;">
+    <figcaption>
+        Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31.
+    </figcaption>
+</figure>
+</div>
+
 ### Cluster HeB Star Selection
 Identifying evolved HeB stars that are members of star clusters provides constraints on the ages and properties of these post-main-sequence populations. Cluster membership was assigned to PHAT stars located within the apertures of clusters in the Andromeda Project catalog. PHAT photometry was filtered using signal-to-noise requirements in the optical bands while avoiding overly restrictive sharpness and crowding cuts that can reduce completeness in crowded cluster environments.
 HeB candidates were selected based on their position in the optical color-magnitude diagram (F475W−F814W vs. F814W) relative to best-fit Padova isochrones. Candidates were required to be brighter than the main-sequence turn-off (MSTO) and separated from the RGB-tip region using age-dependent boundaries designed to balance completeness and contamination. The analysis focused on clusters with ages appropriate for massive-star RSGs, reducing contamination from older RGB populations.
