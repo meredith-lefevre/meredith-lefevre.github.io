@@ -45,6 +45,33 @@ HeB candidates were selected based on their position in the optical color-magnit
 I identified 424 HeB stars across 237 clusters, including 252 RSGs and 170 BSGs. RSGs and BSGs were separated using their F110W−F160W color, with RSGs defined as having F110W−F160W ≥ 0.78. Some contamination from yellow supergiants is possible in both populations.
 RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of the identified RSGs in the oldest age bin (7.75–8.00). I also calculate the RSG production efficiency of the cluster population as a function of cluster mass to investigate how efficiently clusters produce observable RSGs.
 
+<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
+<figure style="margin:0;">
+    <img src="{{ base_path }}/images/CIERA_DereddenedOPTCMD.png" 
+         alt="Infrared CMD of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. The dashed lines show the RSG selection criteria from Dai et al. (2025)1, illustrating the difference between our broader selection and the more restrictive criteria used in their RSG catalog."
+         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+    <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
+        Figure 5. Infrared CMD of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. The dashed lines show the RSG selection criteria from Dai et al. (2025)1, illustrating the difference between our broader selection and the more restrictive criteria used in their RSG catalog.
+    </figcaption>
+</figure>
+<figure style="margin:0;">
+    <img src="{{ base_path }}/images/CIERA_IRCMD.png" 
+         alt="Figure 5. Infrared CMD of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. The dashed lines show the RSG selection criteria from Dai et al. (2025)1, illustrating the difference between our broader selection and the more restrictive criteria used in their RSG catalog."
+         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+    <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
+        Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31.
+    </figcaption>
+</figure>
+<figure style="margin:0;">
+    <img src="{{ base_path }}/images/CIERA_CCD.png" 
+         alt="Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations."
+         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+    <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
+    Figure 6.  Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations.
+    </figcaption>
+</figure>
+</div>
+
 #### PHAT-wide RSG Sample
 To compare the cluster population with RSGs across M31, I developed a PHAT-wide RSG selection using near-infrared color-magnitude criteria, along with an optical–NIR cut to reduce contamination from asymptotic giant branch (AGB) stars. The selection was based in part on the RSG criteria of Dai et al. (2025), while using photometric quality cuts designed to preserve completeness.
 This selection identifies 5,188 RSGs across PHAT, including 99 associated with clusters. For comparison, the RSG catalog of Dai et al. (2025) contains 2,612 RSGs, including 81 cluster-associated RSGs. Differences between these samples primarily reflect differences in photometric quality cuts and RSG selection criteria. The PHAT-wide sample provides a larger RSG population for comparing cluster and field environments, particularly at older ages.
