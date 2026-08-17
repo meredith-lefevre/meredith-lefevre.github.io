@@ -20,17 +20,17 @@ Using PHAT photometry and the Andromeda Project cluster catalog, I identify HeB 
 <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_PHATfilters.png" 
-         alt="Relative transmission of the PHAT filters as a function of wavelength (top), with representative stellar spectra shown below, including Vega, G7III, M5III, and a carbon star (bottom)." 
-         style="width:100%; aspect-ratio:3/2; object-fit:cover;">
-    <figcaption>
+         alt="Relative transmission of the PHAT filters as a function of wavelength (top), with representative stellar spectra shown below, including Vega, G7III, M5III, and a carbon star (bottom)."
+         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+    <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
         Relative transmission of the PHAT filters as a function of wavelength, with representative stellar spectra shown below.
     </figcaption>
 </figure>
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_PHATMosaic.png" 
-         alt="Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31." 
-         style="width:100%; aspect-ratio:3/2; object-fit:cover;">
-    <figcaption>
+         alt="Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31."
+         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+    <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
         Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31.
     </figcaption>
 </figure>
