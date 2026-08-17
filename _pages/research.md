@@ -78,6 +78,8 @@ RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of t
         Infrared CMD of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. The dashed lines show the RSG selection criteria from Dai et al. (2025)1, illustrating the difference between our broader selection and the more restrictive criteria used in their RSG catalog.    
     </figcaption>
 </figure>
+</div>
+
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_CCD.png" 
          alt="Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations."
@@ -86,60 +88,55 @@ RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of t
         Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations.
     </figcaption>
 </figure>
-</div>
 
 #### PHAT-wide RSG Sample
 To compare the cluster population with RSGs across M31, I developed a PHAT-wide RSG selection using near-infrared color-magnitude criteria, along with an optical–NIR cut to reduce contamination from asymptotic giant branch (AGB) stars. The selection was based in part on the RSG criteria of Dai et al. (2025), while using photometric quality cuts designed to preserve completeness.
 This selection identifies 5,188 RSGs across PHAT, including 99 associated with clusters. For comparison, the RSG catalog of Dai et al. (2025) contains 2,612 RSGs, including 81 cluster-associated RSGs. Differences between these samples primarily reflect differences in photometric quality cuts and RSG selection criteria. The PHAT-wide sample provides a larger RSG population for comparing cluster and field environments, particularly at older ages.
 
-<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px; align-items:stretch;">
-
-<figure style="margin:0;">
+<<figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_RSGagebinsplots.png" 
          alt="RSG population properties as a function of cluster age for the CMD-selected cluster RSG sample. The top panel shows the number of RSGs and the bottom panel shows the RSG production efficiency per unit cluster mass. Points show the mean cluster age within each age bin with Poisson uncertainties, and grey error bars show bin width."
-         style="width:100%; height:auto; border-radius:0;">
-    <figcaption style="font-size:0.8em; color:#666; text-align:center; margin-top:5px;">
+         style="width:85%; height:auto; border-radius:0;">
+    <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         RSG population properties as a function of cluster age for the CMD-selected cluster RSG sample. The top panel shows the number of RSGs and the bottom panel shows the RSG production efficiency per unit cluster mass. Points show the mean cluster age within each age bin with Poisson uncertainties, and grey error bars show bin width.
     </figcaption>
 </figure>
 
-<figure style="margin:0; display:flex; flex-direction:column; justify-content:center;">
+<figure style="margin:20px 0 0 0;">
     <img src="{{ base_path }}/images/CIERA_RSGStatsTable.png" 
          alt="Number of red supergiants (RSGs) and associated clusters identified in each RSG sample, showing the differences between the cluster CMD selection, the PHAT-wide selection, and the Dai et al. (2025) catalog."
-         style="width:100%; height:auto; border-radius:0;">
-    <figcaption style="font-size:0.8em; color:#666; text-align:center; margin-top:5px;">
+         style="width:85%; height:auto; display:block; margin:auto; border-radius:0;">
+    <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Number of red supergiants (RSGs) and associated clusters identified in each RSG sample, showing the differences between the cluster CMD selection, the PHAT-wide selection, and the Dai et al. (2025) catalog.
     </figcaption>
 </figure>
-
-</div>
 
 ### Binary Candidates
 Ultraviolet excess can reveal hot companions to cool RSGs, which produce relatively little UV emission themselves. I identify candidate binaries using an F336W−F814W vs. F814W−F160W color-color criterion inspired by Dai et al. (2025). An F336W signal-to-noise requirement of >4 was used to ensure reliable UV detections, while F275W was excluded because its shallower depth would bias the sample toward brighter UV sources.
 The observed UV excess is consistent with the presence of a main-sequence companion with a mass of approximately 3–5 M⊙ or greater. The candidate binary fraction is 2.18× higher among cluster-associated RSGs than field RSGs (25.3% vs. 11.6%). This difference provides a potential test of whether stellar environment influences the binary properties and evolution of RSGs.
 
-<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px; align-items:start;">
-<figure style="margin:0;">
+</div>
+
+<<figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_UVExcess.png" 
          alt="Color-color diagram of CMD-selected RSGs showing the UV-excess binary candidates. Single RSGs are shown in red and binary candidates in purple. The PHAT-wide RSG sample is shown in grey for comparison. The dashed line marks the boundary used to identify UV excess and is inspired by the UV excess plots of Dat et al. (2025)."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+         style="width:85%; height:auto; border-radius:0;">
     <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Color-color diagram of CMD-selected RSGs showing the UV-excess binary candidates. Single RSGs are shown in red and binary candidates in purple. The PHAT-wide RSG sample is shown in grey for comparison. The dashed line marks the boundary used to identify UV excess and is inspired by the UV excess plots of Dat et al. (2025).
     </figcaption>
 </figure>
-<figure style="margin:0; display:flex; flex-direction:column; justify-content:center;">
+
+<figure style="margin:20px 0 0 0;">
     <img src="{{ base_path }}/images/CIERA_BinaryTable.png" 
          alt="Binary fractions for the RSG samples, comparing cluster-associated and field RSG populations."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+         style="width:85%; height:auto; display:block; margin:auto; border-radius:0;">
     <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Binary fractions for the RSG samples, comparing cluster-associated and field RSG populations.
     </figcaption>
 </figure>
 
-</div>
-
 ### Ongoing Work
-Current work focuses on understanding the relationship between RSG populations and their host cluster properties, particularly age and mass. I am also comparing the observed RSG populations with single-star and binary stellar evolution models to investigate whether binary interactions can explain observed trends in RSG populations and UV excess.
+Future work will focus on comparing the observed RSG populations with single-star and binary stellar evolution models to determine whether the observed trends are consistent with theoretical predictions. I will also investigate how the binary-candidate fraction varies with cluster age to explore whether binary interactions become more or less important at different stages of massive-star evolution. Finally, I will examine completeness trends as a function of age to determine how observational biases and selection effects may influence the observed RSG populations, particularly at older ages. Together, these analyses will help distinguish evolutionary trends from observational effects and provide a more complete picture of RSG and binary evolution.
 
 ### Acknowledgements
 I gratefully acknowledge the support of the CIERA  Research Experiences for Undergraduates (REU) program at Northwestern Univeristy. This material is based upon work supported by the U.S. National Science Foundation under Award No. AST-2446392.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
