@@ -7,7 +7,7 @@ author_profile: true
 {% include toc toc_levels="2" %}
 {% include base_path %}
 
-<div style="height:125px;"></div>
+<div style="height:140px;"></div>
 
 ## Red Supergiants in M31: Investigating Binary Candidates in Cluster and Field Environments
 
@@ -107,7 +107,7 @@ This selection identifies 5,188 RSGs across PHAT, including 99 associated with c
     </p>
 </div>
 
-<div style="height:50px;"></div>
+<div style="height:40px;"></div>
 
 <div style="text-align:center; margin-top:20px;">
     <img src="{{ base_path }}/images/CIERA_RSGStatsTable.png"
@@ -133,7 +133,7 @@ The observed UV excess is consistent with the presence of a main-sequence compan
     </figcaption>
 </figure>
 
-<div style="height:50px;"></div>
+<div style="height:40px;"></div>
 
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_BinaryTable.png" 
