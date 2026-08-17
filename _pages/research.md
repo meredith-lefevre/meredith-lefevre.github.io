@@ -83,7 +83,7 @@ RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of t
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_CCD.png" 
          alt="Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations."
-         style="width:55%; height:auto; border-radius:0; display:block; margin:auto;">
+         style="width:45%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations.
     </figcaption>
@@ -96,17 +96,19 @@ This selection identifies 5,188 RSGs across PHAT, including 99 associated with c
 <div style="text-align:center;">
     <img src="{{ base_path }}/images/CIERA_RSGagebinsplots.png"
          alt="RSG population properties as a function of cluster age for the CMD-selected cluster RSG sample."
-         style="width:100%; height:auto; border-radius:0;">
+         style="width:65%; height:auto; border-radius:0;">
 
     <p style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         RSG population properties as a function of cluster age for the CMD-selected cluster RSG sample. The top panel shows the number of RSGs and the bottom panel shows the RSG production efficiency per unit cluster mass. Points show the mean cluster age within each age bin with Poisson uncertainties, and grey error bars show bin width.
     </p>
 </div>
 
+<div style="height:50px;"></div>
+
 <div style="text-align:center; margin-top:20px;">
     <img src="{{ base_path }}/images/CIERA_RSGStatsTable.png"
          alt="Number of red supergiants (RSGs) and associated clusters identified in each RSG sample."
-         style="width:75%; height:auto; border-radius:0;">
+         style="width:85%; height:auto; border-radius:0;">
 
     <p style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Number of red supergiants (RSGs) and associated clusters identified in each RSG sample, showing the differences between the cluster CMD selection, the PHAT-wide selection, and the Dai et al. (2025) catalog.
@@ -114,17 +116,21 @@ This selection identifies 5,188 RSGs across PHAT, including 99 associated with c
 </div>
 
 ### Binary Candidates
+<h4 style="font-size:1.2em; margin-bottom:10px;">Cluster RSG Sample</h4>
+
 Ultraviolet excess can reveal hot companions to cool RSGs, which produce relatively little UV emission themselves. I identify candidate binaries using an F336W−F814W vs. F814W−F160W color-color criterion inspired by Dai et al. (2025). An F336W signal-to-noise requirement of >4 was used to ensure reliable UV detections, while F275W was excluded because its shallower depth would bias the sample toward brighter UV sources.
 The observed UV excess is consistent with the presence of a main-sequence companion with a mass of approximately 3–5 M⊙ or greater. The candidate binary fraction is 2.18× higher among cluster-associated RSGs than field RSGs (25.3% vs. 11.6%). This difference provides a potential test of whether stellar environment influences the binary properties and evolution of RSGs.
 
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_UVExcess.png" 
          alt="Color-color diagram of CMD-selected RSGs showing the UV-excess binary candidates. Single RSGs are shown in red and binary candidates in purple. The PHAT-wide RSG sample is shown in grey for comparison. The dashed line marks the boundary used to identify UV excess and is inspired by the UV excess plots of Dat et al. (2025)."
-         style="width:85%; height:auto; border-radius:0; display:block; margin:auto;">
+         style="width:65%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Color-color diagram of CMD-selected RSGs showing the UV-excess binary candidates. Single RSGs are shown in red and binary candidates in purple. The PHAT-wide RSG sample is shown in grey for comparison. The dashed line marks the boundary used to identify UV excess and is inspired by the UV excess plots of Dat et al. (2025).
     </figcaption>
 </figure>
+
+<div style="height:50px;"></div>
 
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_BinaryTable.png" 
