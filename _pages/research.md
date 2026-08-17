@@ -50,7 +50,7 @@ HeB candidates were selected based on their position in the optical color-magnit
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_Cluster980CMD.png"
          alt="Optical CMD of AP Cluster 980 showing the HeB selection region (light pink). The luminosity cut (purple) is offset from the MSTO (black), while the color cut (red) is based on the RGB tip. Boundaries are derived from age-matched Padova solar-metallicity isochrones (light purple). Cluster stars are shown in pink."
-         style="width:100%; height:auto; border-radius:0;">
+         style="width:75%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
         Optical CMD of AP Cluster 980 showing the HeB selection region (light pink). The luminosity cut (purple) is offset from the MSTO (black), while the color cut (red) is based on the RGB tip. Boundaries are derived from age-matched Padova solar-metallicity isochrones (light purple). Cluster stars are shown in pink.
     </figcaption>
@@ -65,7 +65,7 @@ RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of t
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_DereddenedOPTCMD.png" 
          alt="Dereddened optical color-magnitude diagram (CMD) of cluster selected HeB stars. RSGs are indicated in red and BSGs in blue. Pavova isochrones of log(age/yr) = 7.0, 7.5, 8.0 are over plotted for reference."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+         style="width:75%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
         Dereddened optical color-magnitude diagram (CMD) of cluster selected HeB stars. RSGs are indicated in red and BSGs in blue. Pavova isochrones of log(age/yr) = 7.0, 7.5, 8.0 are over plotted for reference.
     </figcaption>
@@ -73,14 +73,14 @@ RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of t
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_IRCMD.png" 
          alt="Infrared CMD of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. The dashed lines show the RSG selection criteria from Dai et al. (2025)1, illustrating the difference between our broader selection and the more restrictive criteria used in their RSG catalog."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+         style="width:75%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
         Infrared CMD of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. The dashed lines show the RSG selection criteria from Dai et al. (2025)1, illustrating the difference between our broader selection and the more restrictive criteria used in their RSG catalog.    </figcaption>
 </figure>
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_CCD.png" 
          alt="Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
+         style="width:75%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.9em; color:#666; text-align:center; margin-top:5px;">
         Color-color diagram of PHAT stars (gray) and CMD-selected HeB stars, with RSGs shown in red and BSGs in blue. Main-sequence stars, foreground stars, BSGs, and RSGs are labeled to show the separation between the major stellar populations.
     </figcaption>
@@ -91,7 +91,7 @@ RSG-hosting clusters span log(age/yr) = 6.60–8.00, with approximately 58% of t
 To compare the cluster population with RSGs across M31, I developed a PHAT-wide RSG selection using near-infrared color-magnitude criteria, along with an optical–NIR cut to reduce contamination from asymptotic giant branch (AGB) stars. The selection was based in part on the RSG criteria of Dai et al. (2025), while using photometric quality cuts designed to preserve completeness.
 This selection identifies 5,188 RSGs across PHAT, including 99 associated with clusters. For comparison, the RSG catalog of Dai et al. (2025) contains 2,612 RSGs, including 81 cluster-associated RSGs. Differences between these samples primarily reflect differences in photometric quality cuts and RSG selection criteria. The PHAT-wide sample provides a larger RSG population for comparing cluster and field environments, particularly at older ages.
 
-<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
+<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px; align-items:start;">
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_RSGagebinsplots.png" 
          alt="RSG population properties as a function of cluster age for the CMD-selected cluster RSG sample. The top panel shows the number of RSGs and the bottom panel shows the RSG production efficiency per unit cluster mass. Points show the mean cluster age within each age bin with Poisson uncertainties, and grey error bars show bin width."
@@ -100,7 +100,7 @@ This selection identifies 5,188 RSGs across PHAT, including 99 associated with c
         RSG population properties as a function of cluster age for the CMD-selected cluster RSG sample. The top panel shows the number of RSGs and the bottom panel shows the RSG production efficiency per unit cluster mass. Points show the mean cluster age within each age bin with Poisson uncertainties, and grey error bars show bin width.
     </figcaption>
 </figure>
-<figure style="margin:0;">
+<figure style="margin:0; display:flex; flex-direction:column; justify-content:center;">
     <img src="{{ base_path }}/images/CIERA_RSGStatsTable.png" 
          alt="Number of red supergiants (RSGs) and associated clusters identified in each RSG sample, showing the differences between the cluster CMD selection, the PHAT-wide selection, and the Dai et al. (2025) catalog."
          style="width:100%; height:auto; object-fit:contain; border-radius:0;">
@@ -114,7 +114,7 @@ This selection identifies 5,188 RSGs across PHAT, including 99 associated with c
 Ultraviolet excess can reveal hot companions to cool RSGs, which produce relatively little UV emission themselves. I identify candidate binaries using an F336W−F814W vs. F814W−F160W color-color criterion inspired by Dai et al. (2025). An F336W signal-to-noise requirement of >4 was used to ensure reliable UV detections, while F275W was excluded because its shallower depth would bias the sample toward brighter UV sources.
 The observed UV excess is consistent with the presence of a main-sequence companion with a mass of approximately 3–5 M⊙ or greater. The candidate binary fraction is 2.18× higher among cluster-associated RSGs than field RSGs (25.3% vs. 11.6%). This difference provides a potential test of whether stellar environment influences the binary properties and evolution of RSGs.
 
-<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
+<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px; align-items:start;">
 <figure style="margin:0;">
     <img src="{{ base_path }}/images/CIERA_UVExcess.png" 
          alt="Color-color diagram of CMD-selected RSGs showing the UV-excess binary candidates. Single RSGs are shown in red and binary candidates in purple. The PHAT-wide RSG sample is shown in grey for comparison. The dashed line marks the boundary used to identify UV excess and is inspired by the UV excess plots of Dat et al. (2025)."
@@ -123,7 +123,7 @@ The observed UV excess is consistent with the presence of a main-sequence compan
         Color-color diagram of CMD-selected RSGs showing the UV-excess binary candidates. Single RSGs are shown in red and binary candidates in purple. The PHAT-wide RSG sample is shown in grey for comparison. The dashed line marks the boundary used to identify UV excess and is inspired by the UV excess plots of Dat et al. (2025).
     </figcaption>
 </figure>
-<figure style="margin:0;">
+<figure style="margin:0; display:flex; flex-direction:column; justify-content:center;">
     <img src="{{ base_path }}/images/CIERA_BinaryTable.png" 
          alt="Binary fractions for the RSG samples, comparing cluster-associated and field RSG populations."
          style="width:100%; height:auto; object-fit:contain; border-radius:0;">
@@ -131,8 +131,8 @@ The observed UV excess is consistent with the presence of a main-sequence compan
         Binary fractions for the RSG samples, comparing cluster-associated and field RSG populations.
     </figcaption>
 </figure>
-</div>
 
+</div>
 
 ### Ongoing Work
 Current work focuses on understanding the relationship between RSG populations and their host cluster properties, particularly age and mass. I am also comparing the observed RSG populations with single-star and binary stellar evolution models to investigate whether binary interactions can explain observed trends in RSG populations and UV excess.
@@ -141,21 +141,17 @@ Current work focuses on understanding the relationship between RSG populations a
 I gratefully acknowledge the support of the CIERA  Research Experiences for Undergraduates (REU) program at Northwestern Univeristy. This material is based upon work supported by the U.S. National Science Foundation under Award No. AST-2446392.  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
 
 ### References
-[1] Dai, M., Wang, S., Jiang, B., & Li, Y. 2025, ApJ, 988, 60, doi: 10.3847/1538-4357/ade156
 
-[2] Dalcanton, J. J., Williams, B. F., Lang, D., et al. 2012, ApJS, 200, 18, doi: 10.1088/0067-0049/200/2/18
-
-[3] Girardi, L., Williams, B. F., Gilbert, K. M., et al. 2010, ApJ, 724, 1030, doi: 10.1088/0004-637X/724/2/1030
-
-[4] Johnson, L. C., Seth, A. C., Dalcanton, J. J., et al. 2015, ApJ, 802, 127, doi: 10.1088/0004-637X/802/2/127
-
-[5] Marigo, P., Girardi, L., Bressan, A., et al. 2008, A&A, 482, 883, doi: 10.1051/0004-6361:20078467
-
-[6] Massey, P., Neugent, K. F., Levesque, E. M., Drout, M. R., & Courteau, S. 2021a, AJ, 161, 79, doi: 10.3847/1538-3881/abd01f
-
-[7] Neugent, K. F. 2021, ApJ, 908, 87, doi: 10.3847/1538-4357/abd47b
-
-[8] Williams, B. F., Durbin, M., Lang, D., et al. 2023, ApJS, 268, 48, doi: 10.3847/1538-4365/acea61
+<div style="font-size:0.85em;">
+    <p>Dai, M., Wang, S., Jiang, B., & Li, Y. 2025, ApJ, 988, 60.</p>
+    <p>Dalcanton, J. J., Williams, B. F., Lang, D., et al. 2012, ApJS, 200, 18.</p>
+    <p>Girardi, L., Williams, B. F., Gilbert, K. M., et al. 2010, ApJ, 724, 1030.</p>
+    <p>Johnson, L. C., Seth, A. C., Dalcanton, J. J., et al. 2015, ApJ, 802, 127, doi: 10.1088/0004-637X/802/2/127</p>
+    <p>Marigo, P., Girardi, L., Bressan, A., et al. 2008, A&A, 482, 883, doi: 10.1051/0004-6361:20078467</p>
+    <p>Massey, P., Neugent, K. F., Levesque, E. M., Drout, M. R., & Courteau, S. 2021a, AJ, 161, 79, doi: 10.3847/1538-3881/abd01f</p>
+    <p>Neugent, K. F. 2021, ApJ, 908, 87, doi: 10.3847/1538-4357/abd47b</p>
+    <p>Williams, B. F., Durbin, M., Lang, D., et al. 2023, ApJS, 268, 48, doi: 10.3847/1538-4365/acea61</p>
+</div>
 
 ## Classifying Galactic Center Sources Through X-ray Time-Domain Analysis
 
