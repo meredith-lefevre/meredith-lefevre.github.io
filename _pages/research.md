@@ -166,6 +166,8 @@ I gratefully acknowledge the support of the CIERA  Research Experiences for Unde
     <p>Williams, B. F., Durbin, M., Lang, D., et al. 2023, ApJS, 268, 48, doi: 10.3847/1538-4365/acea61</p>
 </div>
 
+-----
+
 ## Classifying Galactic Center Sources Through X-ray Time-Domain Analysis
 
 I am currently investigating X-ray point sources near the Galactic Center using data from the Chandra X-ray Observatory under the guidance of Dr. Dustin Swarm. Many of these sources have X-ray spectra consistent with cataclysmic variables (CVs), binary systems where a white dwarf accretes material from a companion star. However, distinguishing between magnetic and non-magnetic CVs using spectral information alone is challenging, leading to uncertainties in estimating white dwarf masses.
