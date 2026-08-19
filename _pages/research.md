@@ -23,7 +23,7 @@ As part of the [CIERA REU Program](https://sites.northwestern.edu/cierareu/2026-
 <h4 style="font-size:1.2em; margin-bottom:10px;">Introduction</h4>
 
 Massive stars play an important role in galaxy evolution through radiation, stellar winds, and supernovae. Evolved helium-burning (HeB) stars, particularly red supergiants, provide important constraints on massive-star evolution, mass loss, and Type II supernova progenitors. Binary interactions can further alter the evolution and observable properties of these stars.
-Using PHAT photometry and the Andromeda Project cluster catalog, I identify HeB stars and RSGs associated with M31 star clusters. I focus on the RSG population, comparing cluster and field RSGs, examining their relationship with cluster properties, and searching for evidence of binary companions through UV excess emission.
+Using PHAT photometry and the Andromeda Project cluster catalog, I identified HeB stars and RSGs associated with M31 star clusters. I focused on the RSG population, comparing cluster and field RSGs, examining their relationship with cluster properties, and searching for evidence of binary companions through UV excess emission.
 
 <div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
 <figure style="margin:0;">
