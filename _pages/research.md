@@ -17,7 +17,7 @@ As part of the [CIERA REU Program](https://sites.northwestern.edu/cierareu/2026-
     <strong>Research Materials:</strong>
     <a href="{{ base_path }}/files/CIERAREUPoster_LeFevre.pdf" target="_blank">View Poster</a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
-    <a href="{{ base_path }}/files/RSG_Research_Notes.pdf" target="_blank">View Research Notes</a>
+    <a href="{{ base_path }}/files/CIERA_REU_Research_Summary_Draft.pdf" target="_blank">View Research Notes</a>
 </p>
 
 <h4 style="font-size:1.2em; margin-bottom:10px;">Introduction</h4>
