@@ -73,7 +73,7 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-
 alt="Cocoon Galaxy"
 style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-origin:center;">
 </div>
-<figcaption style="text-align:center; width:90%;">Cocoon Galaxy (IC 5146</figcaption>
+<figcaption style="text-align:center; width:90%;">Cocoon Galaxy (IC 5146)</figcaption>
 </figure>
 
 <figure>
@@ -82,7 +82,7 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-
 alt="Lunar Eclipse (August 27th, 2026)"
 style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-origin:center;">
 </div>
-<figcaption style="text-align:center; width:90%;">Cocoon Galaxy (IC 5146</figcaption>
+<figcaption style="text-align:center; width:90%;">Lunar Eclipse (August 27th, 2026)</figcaption>
 </figure>
 
 </div>
