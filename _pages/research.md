@@ -25,25 +25,6 @@ As part of the [CIERA REU Program](https://sites.northwestern.edu/cierareu/2026-
 Massive stars play an important role in galaxy evolution through radiation, stellar winds, and supernovae. Evolved helium-burning (HeB) stars, particularly red supergiants, provide important constraints on massive-star evolution, mass loss, and Type II supernova progenitors. Binary interactions can further alter the evolution and observable properties of these stars.
 Using PHAT photometry and the Andromeda Project cluster catalog, I identified HeB stars and RSGs associated with M31 star clusters. I focused on the RSG population, comparing cluster and field RSGs, examining their relationship with cluster properties, and searching for evidence of binary companions through UV excess emission.
 
-<div style="display:grid; grid-template-columns:repeat(2,1fr); gap:10px;">
-<figure style="margin:0;">
-    <img src="{{ base_path }}/images/CIERA_PHATfilters.png" 
-         alt="Relative transmission of the PHAT filters as a function of wavelength (top), with representative stellar spectra shown below, including Vega, G7III, M5III, and a carbon star (bottom)."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
-    <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
-        Relative transmission of the PHAT filters as a function of wavelength, with representative stellar spectra shown below.
-    </figcaption>
-</figure>
-<figure style="margin:0;">
-    <img src="{{ base_path }}/images/CIERA_PHATMosaic.png" 
-         alt="Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31."
-         style="width:100%; height:auto; object-fit:contain; border-radius:0;">
-    <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
-        Mosaic of the Panchromatic Hubble Andromeda Treasury (PHAT) survey footprint across the disk of M31.
-    </figcaption>
-</figure>
-</div>
-
 <h4 style="font-size:1.2em; margin-bottom:10px;">Cluster HeB Star Selection</h4>
 
 Identifying evolved HeB stars that are members of star clusters provides constraints on the ages and properties of these post-main-sequence populations. Cluster membership was assigned to PHAT stars located within the apertures of clusters in the Andromeda Project catalog. PHAT photometry was filtered using signal-to-noise requirements in the optical bands while avoiding overly restrictive sharpness and crowding cuts that can reduce completeness in crowded cluster environments.
@@ -161,7 +142,6 @@ I gratefully acknowledge the support of the CIERA  Research Experiences for Unde
     <p>Girardi, L., Williams, B. F., Gilbert, K. M., et al. 2010, ApJ, 724, 1030.</p>
     <p>Johnson, L. C., Seth, A. C., Dalcanton, J. J., et al. 2015, ApJ, 802, 127, doi: 10.1088/0004-637X/802/2/127</p>
     <p>Marigo, P., Girardi, L., Bressan, A., et al. 2008, A&A, 482, 883, doi: 10.1051/0004-6361:20078467</p>
-    <p>Massey, P., Neugent, K. F., Levesque, E. M., Drout, M. R., & Courteau, S. 2021a, AJ, 161, 79, doi: 10.3847/1538-3881/abd01f</p>
     <p>Neugent, K. F. 2021, ApJ, 908, 87, doi: 10.3847/1538-4357/abd47b</p>
     <p>Williams, B. F., Durbin, M., Lang, D., et al. 2023, ApJS, 268, 48, doi: 10.3847/1538-4365/acea61</p>
 </div>
@@ -170,7 +150,7 @@ I gratefully acknowledge the support of the CIERA  Research Experiences for Unde
 
 ## Classifying Galactic Center Sources Through X-ray Time-Domain Analysis
 
-I am currently investigating X-ray point sources near the Galactic Center using data from the Chandra X-ray Observatory under the guidance of [Dr. Dustin Swarm](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://physics.uiowa.edu/people/dustin-swarm&ved=2ahUKEwiJ-7ezsamXAxXgNYYAHU6oGWUQFnoECB8QAQ&usg=AOvVaw1CFuiRHijhq6rBZPvSH1qd). Many of these sources have X-ray spectra consistent with cataclysmic variables (CVs), binary systems where a white dwarf accretes material from a companion star. However, distinguishing between magnetic and non-magnetic CVs using spectral information alone is challenging, leading to uncertainties in estimating white dwarf masses.
+I am currently investigating X-ray point sources near the Galactic Center using data from the [Chandra X-ray Observatory](https://science.nasa.gov/mission/chandra/) under the guidance of [Dr. Dustin Swarm](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://physics.uiowa.edu/people/dustin-swarm&ved=2ahUKEwiJ-7ezsamXAxXgNYYAHU6oGWUQFnoECB8QAQ&usg=AOvVaw1CFuiRHijhq6rBZPvSH1qd). Many of these sources have X-ray spectra consistent with cataclysmic variables (CVs), binary systems where a white dwarf accretes material from a companion star. However, distinguishing between magnetic and non-magnetic CVs using spectral information alone is challenging, leading to uncertainties in estimating white dwarf masses.
 
 To address this challenge, I am performing time-domain analysis of X-ray light curves for a sample of approximately 34 Galactic Center sources. I will analyze the variability and periodic signals within these light curves to identify signatures associated with white dwarf spin and orbital periods. These periodic features will help classify the sources as magnetic or non-magnetic CVs and improve estimates of their physical properties.
 
