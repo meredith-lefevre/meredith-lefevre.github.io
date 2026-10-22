@@ -9,4 +9,4 @@ redirect_from:
 
 ## CV
 
-<embed src="/files/CV_10-16.pdf" width="100%" height="900px" />
+<embed src="/files/CV_Grad_long.pdf" width="100%" height="900px" />
