@@ -85,4 +85,13 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(1.0); transform-
 <figcaption style="text-align:center; width:90%;">Lunar Eclipse (August 27th, 2026)</figcaption>
 </figure>
 
+<figure>
+<div style="width:90%; aspect-ratio:1/1; overflow:hidden;">
+<img src="{{ base_path }}/images/astrophotography/saturn.jpg"
+alt="Saturn"
+style="width:90%; height:90%; object-fit:cover; transform:scale(1.0); transform-origin:center;">
+</div>
+<figcaption style="text-align:center; width:90%;">Saturn</figcaption>
+</figure>
+
 </div>
