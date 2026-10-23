@@ -82,11 +82,7 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-
 </figure>
 
 <figure>
-<div style="width:90%; aspect-ratio:1/1; overflow:hidden;">
-<img src="{{ base_path }}/images/astrophotography/lunareclipse.jpg"
-alt="Lunar Eclipse (August 27th, 2026)"
-style="width:90%; height:90%; object-fit:cover; transform:scale(1.0); transform-origin:center;">
-</div>
+<img src="{{ base_path }}/images/astrophotography/lunareclipse.jpg" alt="Lunar Eclipse (August 27th, 2026)" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
 <figcaption style="text-align:center; width:90%;">Lunar Eclipse (August 27th, 2026)</figcaption>
 </figure>
 
