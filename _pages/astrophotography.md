@@ -106,5 +106,4 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-
 <figcaption style="text-align:center; width:90%;">Phantom Galaxy (M74/NGC 628)</figcaption>
 </figure>
 
-
 </div>
