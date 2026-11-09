@@ -86,5 +86,25 @@ style="width:90%; height:90%; object-fit:cover; transform:scale(2.0); transform-
 <figcaption style="text-align:center; width:90%;">Saturn</figcaption>
 </figure>
 
+<figure>
+<img src="{{ base_path }}/images/astrophotography/fireworksgalaxy.jpg" alt="Fireworks Galaxy (NGC 6946)" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
+<figcaption style="text-align:center; width:90%;">Fireworks Galaxy (NGC 6946)</figcaption>
+</figure>
+
+<figure>
+<img src="{{ base_path }}/images/astrophotography/orionnebula.jpg" alt="Orion Nebula (M42)" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
+<figcaption style="text-align:center; width:90%;">Orion Nebula (M42)</figcaption>
+</figure>
+
+<figure>
+<img src="{{ base_path }}/images/astrophotography/heartnebula.jpg" alt="Heart Nebula (IC 1805)" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
+<figcaption style="text-align:center; width:90%;">Heart Nebula (IC 1805)</figcaption>
+</figure>
+
+<figure>
+<img src="{{ base_path }}/images/astrophotography/phantomgalaxy.jpg" alt="Phantom Galaxy (M74/NGC 628)" style="width:90%; aspect-ratio:1/1; object-fit:cover;">
+<figcaption style="text-align:center; width:90%;">Phantom Galaxy (M74/NGC 628)</figcaption>
+</figure>
+
 
 </div>
