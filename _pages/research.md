@@ -156,3 +156,8 @@ To address this challenge, I am performing time-domain analysis of X-ray light c
 
 This project is ongoing, with current efforts focused on processing Chandra observations, identifying candidate periodic signals, and developing methods to characterize X-ray variability in compact binary systems.
 
+<p>
+    <strong>Research Materials:</strong>
+    <a href="{{ base_path }}/files/UIowa_Poster.pdf" target="_blank">View Poster</a>
+</p>
+
