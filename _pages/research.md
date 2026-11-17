@@ -159,7 +159,7 @@ CVs are broadly classified according to the strength of the WD's magnetic field,
 <figure style="margin:0;">
     <img src="{{ base_path }}/files/CV_Types.png" 
          alt="Schematic diagrams of the three main types of cataclysmic variables, arranged by magnetic field strength: dwarf nova (left), intermediate polar (middle), and polar (right.)"
-         style="width:85%; height:auto; border-radius:0; display:block; margin:auto;">
+         style="width:95%; height:auto; border-radius:0; display:block; margin:auto;">
     <figcaption style="font-size:0.75em; color:#666; text-align:center; margin-top:5px;">
         Schematic diagrams of the three main types of cataclysmic variables, arranged by magnetic field strength: dwarf nova (left), intermediate polar (middle), and polar (right).
     </figcaption>
